@@ -1,0 +1,12 @@
+# Java
+*.class
+
+# C++
+*.exe
+*.out
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
