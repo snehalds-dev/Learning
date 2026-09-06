@@ -10,3 +10,7 @@
 
 # Windows
 Thumbs.db
+
+.idea
+out
+*.iml
