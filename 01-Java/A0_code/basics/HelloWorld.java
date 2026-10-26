@@ -1,4 +1,4 @@
-package basics;
+package A0_code.basics;
 
 public class HelloWorld {
     public static void main (String[] args) {
